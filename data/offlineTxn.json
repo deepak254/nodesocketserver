@@ -1,0 +1,293 @@
+[ 
+{
+       "user_id": "VjAxI2I3Y2FmMTE2LTMxMGEtNDc1Ni04NGJhLTIwMzhhY2Q1ZmQ3NA",
+        "direction": "DEBIT",
+         "amount": "15.00",
+          "created_time": "2017-02-21 13:25:34.658",
+          "updated_time": "2017-02-21 13:25:35.315",
+           "merchant_id": "VehwfZjCZn7ynA",
+     "merchant_order_id": "NULL",
+     "business_use_case": "PAYMENT",
+           "beneficiary": "VehwfZjCZn7ynA",
+         "global_txn_id": "100000004408978",
+      "transaction_date": "2017-02-21 13:24:29.520",
+       "wallet_txn_info": {"txnId":"a2b68465-f43b-461f-b1c2-2a7fd5b6258a",""amount"":15.00,"status":"COMPLETED"},
+           "pg_txn_info": "NULL",
+            "txn_status": "SUCCESS",
+       "global_txn_type": "OPS_WALLET_DEBIT_TONETAG",
+       "fulfilment_info": "NULL",
+           "refund_info": "NULL",
+         "cashback_info": "NULL",
+  "parent_global_txn_id": "NULL",
+              "metadata": {"type":"ops"metadata"","userId":""VjAxI2I3Y2FmMTE2LTMxMGEtNDc1Ni04NGJhLTIwMzhhY2Q1ZmQ3NA"","email":"ameshmogaveera132@gmail.com","displayName":"amesh ","merchantOrderId":"A0575549757052132926","domain":"Payables","transactionTime":1487663669063,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"57554975","platformId":"w1cuKqhrfmwx","actual"amount"":15.00,"fee"amount"":0.00,"feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"0","opsFlowType":"OPS_TONETAG","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"},
+"parent_global_txn_type": "NULL",
+           "txn_version": 3,
+        "promocode_info": "NULL",
+         "freefund_info": "NULL"
+},
+{
+               "user_id": "VjAxI2VmZTZhZGMwLTA0MmItNGJlMy1iNDRjLWEzNDdkMTdiMzYwZg",
+             "direction": "DEBIT",
+                "amount": 30.00,
+          "created_time": 2017-02-21 13:12:44.199,
+          "updated_time": 2017-02-21 13:12:57.986,
+           "merchant_id": "VehwfZjCZn7ynA",
+     "merchant_order_id": "NULL",
+     "business_use_case": "PAYMENT",
+           "beneficiary": "VehwfZjCZn7ynA",
+         "global_txn_id": "100000004408877",
+      "transaction_date": "2017-02-21 13:11:51.703",
+       "wallet_txn_info": {"txnId":"e60d6334-96d6-454a-81bd-7058276b8d49",""amount"":30.00,"status":"COMPLETED"},
+           "pg_txn_info": "NULL",
+            "txn_status": "SUCCESS",
+       "global_txn_type": "OPS_WALLET_DEBIT_TONETAG",
+       "fulfilment_info": "NULL",
+           "refund_info": "NULL",
+         "cashback_info": "NULL",
+  "parent_global_txn_id": "NULL",
+              "metadata": {"type":"ops"metadata"","userId":""VjAxI2VmZTZhZGMwLTA0MmItNGJlMy1iNDRjLWEzNDdkMTdiMzYwZg"","email":"nawazhpt@gmail.com","displayName":"Nawaz ","merchantOrderId":"A0952849967052131147","domain":"Payables","transactionTime":1487662911178,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"95284996","platformId":"w1cuKqhrfmwx","actual"amount"":30.00,"fee"amount"":0.00,"feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"0","opsFlowType":"OPS_TONETAG","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"},
+"parent_global_txn_type": "NULL",
+           "txn_version": 3,
+        "promocode_info": "NULL",
+         "freefund_info": "NULL"
+      
+},
+{
+
+        	 
+        	 
+       "user_id": VjAxIzRhM2EzZjFlLWFiNWQtNDhmMi1iZjZhLTAxODRhOGRhOGRiOA
+         "direction": "DEBIT"
+            "amount": 50.00
+      "created_time": 2017-02-21 13:27:17.462
+      "updated_time": 2017-02-21 13:27:18.688
+       "merchant_id": hLtMv45OtRogpK
+ "merchant_order_id": "NULL"
+ "business_use_case": PAYMENT
+       "beneficiary": hLtMv45OtRogpK
+     "global_txn_id": hLtMv45OtRogpK_EA3A6460A6CD41F9872503A697D0C3F8
+  "transaction_date": 2017-02-21 13:26:19.650
+   "wallet_txn_info": {"txnId":"ffb35689-5aef-4883-9b57-a34a6f0bad4f",""amount"":50.00,"status":"COMPLETED"}
+       "pg_txn_info": "NULL"
+        "txn_status": "SUCCESS"
+   "global_txn_type": OPS_WALLET_"DEBIT"_QRMERCHANT
+   "fulfilment_info": "NULL"
+       "refund_info": "NULL"
+     "cashback_info": [{"txnId":"hLtMv45OtRogpK_EA3A6460A6CD41F9872503A697D0C3F8","txnType":"FC_WALLET_CASHBACK","walletTxnId":"d337be71-70ca-4ef2-a25c-c54fb918ba53",""amount"":25.00,"status":""SUCCESS""}]
+"parent_global_txn_id": "NULL"
+          "metadata": {"type":"ops"metadata"","userId":"VjAxIzRhM2EzZjFlLWFiNWQtNDhmMi1iZjZhLTAxODRhOGRhOGRiOA","email":"raghu.sarang@gmail.com","displayName":"Raghavendra ","merchantOrderId":"EA3A6460A6CD41F9872503A697D0C3F8","domain":"Payables","transactionTime":1487663779640,"lob":"FCPTLWallet","storeId":"N/A","storeName":"e2z","terminalId":"V0$E_ID$MNTR$F871Dnpf1uvSzF","platformId":"jSOEXo734Dus","actual"amount"":50.00,"fee"amount"":0.00,"dealerId":"1GiewfWiccMePBxrah","feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"1","opsFlowType":"OPS_QRMERCHANT","senderIMSId":"VjAxIzRhM2EzZjFlLWFiNWQtNDhmMi1iZjZhLTAxODRhOGRhOGRiOA","senderJabberId":"26a73a39-9eea-4c20-a2d2-ce253a18366e@paymentschat.freecharge.in","receiverId":"V0$E_ID$MNTR$F871Dnpf1uvSzF","requestTimestamp":1487663769814,"orderId":"EA3A6460A6CD41F9872503A697D0C3F8","merchantName":"e2z","eventContext":"{\"reqId\":\"EA3A6460A6CD41F9872503A697D0C3F8\",\"reqTime\":1487663769814,\"command\":\"SEND_MONEY\",\"domain\":\"P2P\",\"reqDesc\":\"manchow noodles\",\"version\":\"1\"}","fromHandleType":"MOBILE","fromHandle":"8892114088","toHandleType":"PAYTAG","toHandle":"monitor_1901954337","commListForEmail":[{"name":"e2z","emailId":"financeblr@tonguestun.com"}],"commListForMobile":[{"name":"e2z","mobileNumber":"7022895079"}],"dealerName":"e2z","merchantStatus":"ACTIVE","dealerBizName":"Tonguestun Food Network Pvt Ltd","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"}
+"parent_global_txn_type": "NULL"
+       "txn_version": 2
+    "promocode_info": "NULL"
+     "freefund_info": "NULL"
+},{
+           "user_id": VjAxIzc5MTEzNTg0LWY5M2MtNDUwYS1hYjBiLWRmNzAyYTQ0NjZhYQ
+         "direction": "DEBIT"
+            "amount": 100.00
+      "created_time": 2017-02-21 13:24:29.833
+      "updated_time": 2017-02-21 13:24:29.833
+       "merchant_id": ZjAk8wM7sTxeCg
+ "merchant_order_id": "NULL"
+ "business_use_case": PAYMENT
+       "beneficiary": ZjAk8wM7sTxeCg
+     "global_txn_id": ZjAk8wM7sTxeCg_8BAAB8122E3D4CE38A631691EC527CA8
+  "transaction_date": 2017-02-21 13:23:37.980
+   "wallet_txn_info": {"txnId":"7e781c82-2df9-4fef-98ae-9440e6cfd878",""amount"":100.00,"status":"COMPLETED"}
+       "pg_txn_info": "NULL"
+        "txn_status": "SUCCESS"
+   "global_txn_type": OPS_WALLET_"DEBIT"_QRMERCHANT
+   "fulfilment_info": "NULL"
+       "refund_info": "NULL"
+     "cashback_info": "NULL"
+"parent_global_txn_id": "NULL"
+          "metadata": {"type":"ops"metadata"","userId":"VjAxIzc5MTEzNTg0LWY5M2MtNDUwYS1hYjBiLWRmNzAyYTQ0NjZhYQ","email":"rohitsharma_king@yahoo.com","displayName":"Rohit Sharma ","merchantOrderId":"8BAAB8122E3D4CE38A631691EC527CA8","domain":"Payables","transactionTime":1487663617971,"lob":"FCPTLWallet","storeId":"N/A","storeName":"Mumbai Metro Andheri","terminalId":"V0$MUM_AND_P42","platformId":"jSOEXo734Dus","actual"amount"":100.00,"fee"amount"":0.00,"dealerId":"fW2uz20iwIs9QtpzHr","feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"1","opsFlowType":"OPS_QRMERCHANT","senderIMSId":"VjAxIzc5MTEzNTg0LWY5M2MtNDUwYS1hYjBiLWRmNzAyYTQ0NjZhYQ","senderJabberId":"234eb6ca-0b3d-4f24-b9c9-83216a2509cf@paymentschat.freecharge.in","receiverId":"V0$MUM_AND_P42","requestTimestamp":1487663615289,"orderId":"8BAAB8122E3D4CE38A631691EC527CA8","merchantName":"Mumbai Metro Andheri","eventContext":"{\"reqId\":\"8BAAB8122E3D4CE38A631691EC527CA8\",\"reqTime\":\"1487663615289\",\"command\":\"SEND_MONEY\",\"domain\":\"P2M\",\"festival\":"NULL",\"reqDesc\":\"Here is your money!\",\"version\":\"1\"}","fromHandleType":"MOBILE","fromHandle":"8879783627","toHandleType":"PAYTAG","toHandle":"MUM_AND_P42","commListForEmail":[{"name":"Mumbai Metro Andheri","emailId":"ssp.and@veolia-transport.in"}],"commListForMobile":[{"name":"Mumbai Metro Andheri","mobileNumber":"7303979943"},{"name":"Mumbai Metro Andheri","mobileNumber":"9320972407"}],"runningBalance":0.00,"dealerName":"Mumbai Metro Andheri","merchantStatus":"ACTIVE","dealerBizName":"Mumbai Metro Andheri","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"}
+"parent_global_txn_type": "NULL"
+
+
+"user_id": VjAxI2MwZjVkM2E5LTM1OGEtNDRiNC1iZjA1LTUyOWFmZjkyY2NjMQ
+"direction": CREDIT
+   "amount": 1.98
+"created_time": 2017-02-21 11:57:50.513
+"updated_time": 2017-02-21 11:58:07.179
+"merchant_id": 2mO5P1CigF0EDO
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": 2mO5P1CigF0EDO
+"global_txn_id": 100000004408489
+"transaction_date": 2017-02-21 11:57:10.965
+"wallet_txn_info": {"txnId":"2071b8ec-31ac-49a5-82ef-002e3652a638",""amount"":1.98,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_VOID
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004408481
+ "metadata": {"type":"ops"metadata"","userId":"VjAxI2MwZjVkM2E5LTM1OGEtNDRiNC1iZjA1LTUyOWFmZjkyY2NjMQ","email":"svjthecreators@gmail.com","displayName":"VIJENDRA JAISWAL","merchantOrderId":"2257917","domain":"Payables","transactionTime":1487658430956,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"1040000000021978","platformId":"fb8WReFXfus6",""metadata"Version":"0","additionalInfo":[]}
+"parent_global_txn_type": OPS_WALLET_"DEBIT"
+"txn_version": 2
+"promocode_info": "NULL"
+"freefund_info": "NULL"
+},{
+  "user_id": VjAxI2RkODA5YjM0LTg5NGEtNDEzOC1iY2ExLTcwZDM3YTg0NmRmYQ
+"direction": CREDIT
+   "amount": 571.68
+"created_time": 2017-02-20 20:32:18.524
+"updated_time": 2017-02-20 20:32:18.524
+"merchant_id": 2mO5P1CigF0EDO
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": 2mO5P1CigF0EDO
+"global_txn_id": 100000004406674
+"transaction_date": 2017-02-20 20:31:20.822
+"wallet_txn_info": {"txnId":"3be81929-0d65-4589-a8a0-0a818487746e",""amount"":571.68,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_VOID
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004406670
+ "metadata": {"type":"ops"metadata"","userId":"VjAxI2RkODA5YjM0LTg5NGEtNDEzOC1iY2ExLTcwZDM3YTg0NmRmYQ","email":"nilesh.sonare@gmail.com","displayName":"nilesh sonare","merchantOrderId":"2256917","domain":"Payables","transactionTime":1487602880431,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"1040000000000702","platformId":"fb8WReFXfus6",""metadata"Version":"0","additionalInfo":[]}
+"parent_global_txn_type": OPS_WALLET_"DEBIT"
+"user_id": VjAxI2RhZGQ1N2YzLTA4YTMtNDRlYy1iOWIzLTQ2ZmIyMjAxZjk2ZA
+"direction": CREDIT
+   "amount": 65.00
+"created_time": 2017-02-21 13:24:29.234
+"updated_time": 2017-02-21 13:24:29.234
+"merchant_id": Uo81DlJYyVUDzV
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": Uo81DlJYyVUDzV
+"global_txn_id": 100000004408971
+"transaction_date": 2017-02-21 13:23:35.511
+"wallet_txn_info": {"txnId":"15523005-beca-4b17-83f0-f801c673a3a3",""amount"":65.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_REVERSE
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004408970
+ "metadata": {"type":"ops"metadata"","userId":"VjAxI2RhZGQ1N2YzLTA4YTMtNDRlYy1iOWIzLTQ2ZmIyMjAxZjk2ZA","email":"sidharth.bedi@gmail.com","displayName":"Sidharth Bedi","merchantOrderId":"1208148766359307382527277","domain":"Payables","transactionTime":1487663614981,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"Cashier alok","platformId":"2d66fB6fNkGp",""metadata"Version":"0","additionalInfo":[]}
+"parent_global_txn_type": OPS_WALLET_"DEBIT"
+"txn_version": 2
+"promocode_info": "NULL"
+"freefund_info": "NULL"
+},{
+  "user_id": VjAxIzlmYzk2OGM2LTk0YTQtNDQ5Ny05NGRlLWFiNzFiMmNmODJhMQ
+"direction": CREDIT
+   "amount": 65.00
+"created_time": 2017-02-21 13:21:16.846
+"updated_time": 2017-02-21 13:21:26.079
+"merchant_id": Uo81DlJYyVUDzV
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": Uo81DlJYyVUDzV
+"global_txn_id": 100000004408961
+"transaction_date": 2017-02-21 13:20:25.769
+"wallet_txn_info": {"txnId":"b7dec1c7-6a3a-492f-816a-451c79f70333",""amount"":65.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_REVERSE
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004408903
+ "metadata": {"type":"ops"metadata"","userId":"VjAxIzlmYzk2OGM2LTk0YTQtNDQ5Ny05NGRlLWFiNzFiMmNmODJhMQ","email":"vishesh.happy@gmail.com","displayName":"Vishesh khandelwal","merchantOrderId":"1208148766309197590424030","domain":"Payables","transactionTime":1487663425758,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"Cashier alok","platformId":"2d66fB6fNkGp",""metadata"Version":"0","additionalInfo":[]}
+*************************** 1. row ***************************
+"user_id": VjAxIzFlYWQ4NzI1LWQxYzgtNGJhNy1iNzkzLWY4MGEzMGFhMjFkMA
+"direction": CREDIT
+ "amount": 200.00
+"created_time": 2017-02-16 13:14:45.504
+"updated_time": 2017-02-16 13:14:55.471
+"merchant_id": VehwfZjCZn7ynA
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": VehwfZjCZn7ynA
+"global_txn_id": 100000004377401_REV
+"transaction_date": 2017-02-16 13:11:53.459
+"wallet_txn_info": {"txnId":"26c6164e-1a9f-4dbf-a9e3-1d01a8fb76b6",""amount"":200.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_REVERSE_TONETAG
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004377401
+"metadata": {"type":"ops"metadata"","userId":"VjAxIzFlYWQ4NzI1LWQxYzgtNGJhNy1iNzkzLWY4MGEzMGFhMjFkMA","email":"sivaprasad.kasthala@gmail.com","displayName":" ","merchantOrderId":"B2634859367047130606","domain":"Payables","transactionTime":1487230580694,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"63485936","platformId":"w1cuKqhrfmwx","actual"amount"":200.00,"fee"amount"":0.00,"feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"0","opsFlowType":"OPS_TONETAG","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"}
+"parent_global_txn_type": "OPS_WALLET_"DEBIT"_TONETAG"
+"txn_version": 2
+"promocode_info": "NULL"
+"freefund_info": "NULL"
+},{
+"user_id": VjAxIzFlYWQ4NzI1LWQxYzgtNGJhNy1iNzkzLWY4MGEzMGFhMjFkMA
+"direction": CREDIT
+ "amount": 200.00
+"created_time": 2017-02-16 13:13:41.561
+"updated_time": 2017-02-16 13:13:41.561
+"merchant_id": VehwfZjCZn7ynA
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": VehwfZjCZn7ynA
+"global_txn_id": 100000004377397_REV
+"transaction_date": 2017-02-16 13:11:01.685
+"wallet_txn_info": {"txnId":"d5b267ca-4408-40e7-88c2-a1b55c8a3f1e",""amount"":200.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_"DEBIT"_REVERSE_TONETAG
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": 100000004377397
+"metadata": {"type":"ops"metadata"","userId":"VjAxIzFlYWQ4NzI1LWQxYzgtNGJhNy1iNzkzLWY4MGEzMGFhMjFkMA","email":"sivaprasad.kasthala@gmail.com","displayName":" ","merchantOrderId":"B2634859367047130512","domain":"Payables","transactionTime":1487230527945,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"63485936","platformId":"w1cuKqhrfmwx","actual"amount"":200.00,"fee"amount"":0.00,"feeType":"TDR","feeId":"a7843476-a573-471a-9ced-abd72a5bab44","feeVersion":"1","serviceChargeId":"VjE6S3Jpc2hpS2FseWFuQ2VzczE6U2VydmljZVRheDE6U3dhY2hoQmhhcmF0Q2VzczE","st"amount"":0.000000,"stFeeValue":14.00,"stFeeValueType":"RELATIVE","kc"amount"":0.000000,"kcFeeValue":0.50,"kcFeeValueType":"RELATIVE","sbc"amount"":0.000000,"sbcFeeValue":0.50,"sbcFeeValueType":"RELATIVE",""metadata"Version":"0","opsFlowType":"OPS_TONETAG","fcptl"amount"Share":0.00,"fcptlfeeValueShare":0.00,"fcptlfeeValueType":"ABSOLUTE"}
+"parent_global_txn_type": "OPS_WALLET_DEBIT_TONETAG"
+
+
+"user_id": VjAxI2NkZGQ4MTk0LWQ2YTktNGQzMi05NmRjLWM4MDkyNTBhZjQ4OA
+"direction": CREDIT
+   "amount": 1.00
+"created_time": 2017-02-20 12:23:24.521
+"updated_time": 2017-02-20 12:23:31.443
+"merchant_id": Fnte4v9JMc0HEk
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": Fnte4v9JMc0HEk
+"global_txn_id": 100000004402714
+"transaction_date": 2017-02-20 12:21:28.307
+"wallet_txn_info": {"txnId":"278d173f-ebad-4e75-b6e5-c7868be58058",""amount"":1.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_CREDIT
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": "NULL"
+ "metadata": {"type":"ops"metadata"","userId":"VjAxI2NkZGQ4MTk0LWQ2YTktNGQzMi05NmRjLWM4MDkyNTBhZjQ4OA","email":"nakul@slideapp.in","displayName":"Nakul ","merchantOrderId":"144","domain":"Payables","transactionTime":1487573488297,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"checkout","platformId":"mlKXXF2vaPKf",""metadata"Version":"0","instructionType":"LOAD_DEFAULT","additionalInfo":[]}
+"parent_global_txn_type": "NULL"
+"txn_version": 2
+"promocode_info": "NULL"
+"freefund_info": "NULL"
+}
+{
+  "user_id": VjAxIzUyZjAwMjdhLTQwMTktNDdhNC05MTcwLTE1YjhlMTVkNjQ4MQ
+"direction": CREDIT
+  "amount": 1.00
+"created_time": 2017-02-20 12:15:32.134
+"updated_time": 2017-02-20 12:15:32.134
+"merchant_id": Fnte4v9JMc0HEk
+"merchant_order_id": "NULL"
+"business_use_case": PAYMENT
+"beneficiary": Fnte4v9JMc0HEk
+"global_txn_id": 100000004402667
+"transaction_date": 2017-02-20 12:13:57.652
+"wallet_txn_info": {"txnId":"2147c307-069d-4cfd-8c14-f398ef748cc5",""amount"":1.00,"status":"COMPLETED"}
+"pg_txn_info": "NULL"
+"txn_status": "SUCCESS"
+"global_txn_type": OPS_WALLET_CREDIT
+"fulfilment_info": "NULL"
+"refund_info": "NULL"
+"cashback_info": "NULL"
+"parent_global_txn_id": "NULL"
+ "metadata": {"type":"ops"metadata"","userId":"VjAxIzUyZjAwMjdhLTQwMTktNDdhNC05MTcwLTE1YjhlMTVkNjQ4MQ","email":"thrndel@gmail.com","displayName":"yoosung Hwang","merchantOrderId":"142","domain":"Payables","transactionTime":1487573036811,"lob":"FCPTLWallet","storeId":"N/A","storeName":"N/A","terminalId":"checkout","platformId":"mlKXXF2vaPKf",""metadata"Version":"0","instructionType":"LOAD_DEFAULT","additionalInfo":[]}
+}]

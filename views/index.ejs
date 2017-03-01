@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html ng-app="socket">
+  <head>
+    <title><%=title%></title>
+	
+	<link rel="stylesheet" type="text/css" href="stylesheets/loading-bar.min.css"/>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>	
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular-route.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-animate.min.js"></script>
+<script src="js/loading-bar.min.js"></script>
+<!-- <script src="js/socket.io.js"></script> -->
+<script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+</head>
+
+
+<body >
+<div ng-c class="container" >
+<h3 class="text-info">File Change Monitor Application</h3>
+<br><br>
+
+<!-- <div class="panel panel-default">
+<div class="panel-heading"><h4 class="text-warning">Add Student directly to your json file</h4></div>
+ <div class="panel-body"   ng-controller="studentController as student">
+ 
+<form class="form-inline">
+  <div class="form-group">
+    <label for="email">STUDENT ID:</label>
+     <input type="text" ng-model="student_id"> <small class="text-info">{{student_id}} </small><br><br>
+  </div>
+  <div class="form-group">
+    <label for="pwd">NAME:</label>
+     <input type="text" ng-model="student_name"><small class="text-info">     {{student_name}}</small><br><br>
+  </div>
+  
+  <div class="form-group">
+    <label for="pwd">AGE:</label>
+      <input type="text" ng-model="student_age"> <small class="text-info">       {{student_age}}</small><br> <br> 
+  </div>
+ 
+  <button  class="btn-primary" ng-click="student.addStud()">Add student</button>
+</form>
+</div>
+</div>
+<br> -->
+<div class="well" ng-controller="myController">
+
+<strong class="text-info">{{change}}</strong>
+<br><br><br>
+
+<!-- <table class="table table-bordered">
+<tr>
+<th><strong>Student Id</strong></th>
+<th><strong>Student Name</strong></th>
+<th><strong>Student Age</strong></th>
+</tr>
+ <tr ng-repeat="x in tableData">
+    <td>{{ x.id }} </td>
+    <td>{{ x.name }} </td>
+    <td>{{ x.age }}</td>
+  </tr>
+</table> -->
+</div>
+
+
+
+
+</div>
+
+
+
+<script type="text/javascript" src="js/controllers/socketcontroller.js"></script>
+</body>
+</html>
